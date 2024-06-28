@@ -1,0 +1,41 @@
+country_code:
+  iso_alpha2: EC
+  iso_alpha3: ECU
+  iso_numeric: 218
+  osm_id: 108089
+  wikidata_id: 736
+  afa_numeric: 5
+name: República del Ecuador
+name_en: Republic of Ecuador
+jurisdiction_isolabel:
+  level2: {"name":"Provincia","name_en":"Province","n":24}
+  level3: {"name":"Cantone","name_en":"Canton","n":221}
+
+afaCode_status:
+  official: no
+  offical_forum: no
+  competitors: PlusCodes, OLC, Geohash
+  proposal_status: testing
+  proposal_local_adoption:
+
+afaCode_definition:
+  srid: 32717
+  grid_xy_origin: -870000 9401000
+  grid_cell_side:
+  grid_lc:
+  grid_l0_cell: 60 50 51 55 56 40 41 45 46 47 30 31 35 36 37 25 26 27 15 16 5 6
+  grid_l0_cell_sci_base: 00 01 02 03 04 05 06 07 08 09 0a 0b 0c 0d 0e 0f 10 11 12 13 14 15
+  territorial_sea_in_l0_coverage:
+  eez_in_l0_coverage:
+  sci_base: 16h
+  sci_sep: +
+  sci_size_min: 1
+  sci_size_max: 11
+  log_base:
+  log_sep:
+
+srid_official:
+  equalarea: 32717
+  utm_zones:
+
+utm_grid_cover:
