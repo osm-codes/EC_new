@@ -25,8 +25,8 @@ afaCode_definition:
   grid_lc:
   grid_l0_cell: 60 50 51 55 56 40 41 45 46 47 30 31 35 36 37 25 26 27 15 16 5 6
   grid_l0_cell_sci_base: 00 01 02 03 04 05 06 07 08 09 0a 0b 0c 0d 0e 0f 10 11 12 13 14 15
-  territorial_sea_in_l0_coverage:
-  eez_in_l0_coverage:
+  territorial_sea_in_l0_coverage: yes
+  eez_in_l0_coverage: no
   sci_base: 16h
   sci_sep: +
   sci_size_min: 1
