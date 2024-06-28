@@ -165,10 +165,8 @@ t,1,EC-G-CantonColimes,EC-G-CCS,2022-09-14,f
 t,5,EC-G-CantonColimes,ec;g;canton.colimes,2023-11-30,f
 t,5,EC-G-CantonColimes,ec;guayas;canton.colimes,2023-11-30,f
 t,1,EC-G-CantonGeneralAntonioElizalde,EC-G-CGE,2022-09-14,f
-t,5,EC-G-CantonGeneralAntonioElizalde,"ec;g;canton.general.antonio.e
-lizalde",2023-11-30,f
-t,5,EC-G-CantonGeneralAntonioElizalde,"ec;guayas;canton.general.antonio.e
-lizalde",2023-11-30,f
+t,5,EC-G-CantonGeneralAntonioElizalde,"ec;g;canton.general.antonio.elizalde",2023-11-30,f
+t,5,EC-G-CantonGeneralAntonioElizalde,"ec;guayas;canton.general.antonio.elizalde",2023-11-30,f
 t,1,EC-G-CantonIsidroAyora,EC-G-CIA,2022-09-14,f
 t,5,EC-G-CantonIsidroAyora,ec;g;canton.isidro.ayora,2023-11-30,f
 t,5,EC-G-CantonIsidroAyora,ec;guayas;canton.isidro.ayora,2023-11-30,f
